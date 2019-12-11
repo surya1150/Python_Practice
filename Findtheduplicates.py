@@ -9,7 +9,7 @@ query_name = input()
 if query_name in student_marks:
         sum = sum(student_marks[query_name])
         print(sum)
-        n = len(student_marks[query_name])
+        n = len(student_markas[query_name])
         output  = math.floor(sum/n)
         print(output)
 else:
