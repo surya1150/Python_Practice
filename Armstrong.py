@@ -1,3 +1,4 @@
+#!/bin/sh
 lower = 100
 upper = 2000
 
